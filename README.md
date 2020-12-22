@@ -1,6 +1,6 @@
-# speech_text
+# Speech To Text
 
-A new Flutter application.
+Speech to Text app using flutter.
 
 ## Getting Started
 
